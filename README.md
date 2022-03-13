@@ -117,6 +117,14 @@
       height="40"
     />
   </a>
+  <a href="https://learn.datadoghq.com/totara/dashboard/index.php" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/datadog-1.svg"
+      alt="datadog"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
